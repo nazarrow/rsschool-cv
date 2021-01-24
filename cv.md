@@ -1,4 +1,4 @@
-1. Aliaksei Nazarau
+1. Nazarau Aliaksei Olegovich
 
 2. Phone number +375(29)-568-76-35<br>
    Email [nazarov.aliaksey@gmail.com](nazarov.aliaksey@gmail.com)<br>
