@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  font-family: "PT Sans Narrow", Arial, sans-serif;
+  background-image: url(img/backgroundCV.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.header {
+  margin: auto;
+  margin-top: 50px;
+  width: 50%;
+}
+
+.myPhoto {
+  border: 2px solid #000000;
+  margin-left: 20px;
+  height: 300px;
+  width: 300px;
+}
+
+.main {
+  margin: auto;
+  margin-top: 60px;
+  width: 50%;
+}
