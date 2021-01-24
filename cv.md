@@ -16,4 +16,4 @@
 
 6. Made projects for lessons on YouTube.
 7. Graduated from the Belarusian National Technical University. Awarded a specialty - engineer.
-8. I know the English degree А1.
+8. I know the English degree А2.
